@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9aff3bc2ba3347d40b36064ee02d16ca
+timeCreated: 1512370236
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gen Jyuu GothicL
+  fontNames:
+  - Gen Jyuu GothicL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

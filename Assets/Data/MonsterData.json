@@ -1,0 +1,6 @@
+{
+	"ANIMAL":[
+		{"title":"cow","hp":50,"hpRate":8,"atk":5,"atkRate":0.8,"def":0,"speed":3},
+		{"title":"dog","hp":35,"hpRate":5,"atk":8,"atkRate":1,"def":0,"speed":2.3}
+	]
+}

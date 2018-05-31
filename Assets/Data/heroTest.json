@@ -1,0 +1,18 @@
+{"heroInfo":[
+	{
+		"dbId":1,
+		"type":"ASTER",
+		"lv":1,
+		"equipment":{
+			"weapon":2
+		}
+	},
+	{
+		"dbId":1,
+		"type":"OLRUN",
+		"lv":1,
+		"equipment":{
+			"weapon":3
+		}
+	}
+]}

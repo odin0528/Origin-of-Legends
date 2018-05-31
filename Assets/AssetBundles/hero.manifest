@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3171751603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e9ef017575e548a1359209386936616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3cc7297ab496b37efe11b02fef4f106b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a93b7661d933b874996283d7c0bbf891, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9d724a1fe3e27e4994563dff15e0b94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e6c7de2637039c4fa7fa68ad9a63f40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3fedad72ffdac1428551e367534cb2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9dd55378473766e47b810597e0bdab07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b10b498829ea4814caf92388e3d4015a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eebdb049e143c0d4eacd99f1e951210d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d25dbfb20159a44b84884cf3a845cba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3b1ac1ede8e64b4da90b9eae81a7b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e6982e05b019a4daa9e6b83c454fa1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Heros/Olrun.prefab
+- Assets/Resources/Prefabs/Heros/Aster.prefab
+- Assets/Prefabs/Heros/Gale.prefab
+- Assets/Prefabs/Heros/Kester.prefab
+Dependencies: []

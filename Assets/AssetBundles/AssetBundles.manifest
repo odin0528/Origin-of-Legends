@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2942802926
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gamedata
+      Dependencies: {}
+    Info_1:
+      Name: hero
+      Dependencies: {}
+    Info_2:
+      Name: ui
+      Dependencies: {}
